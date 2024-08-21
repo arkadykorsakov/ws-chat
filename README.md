@@ -16,7 +16,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/arkadykorsakov/ws-chat.git
     ```
 
 2. Перейдите в директорию проекта:
